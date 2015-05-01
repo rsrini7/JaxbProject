@@ -1,0 +1,5 @@
+<training>
+	<name>java xml</name>
+	<person id="1"><name> srini </name></person>
+	<person id="2"><name> vasan </name></person>
+</training>
